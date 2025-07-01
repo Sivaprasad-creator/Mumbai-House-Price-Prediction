@@ -5,6 +5,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/Sivaprasad-creator/Mumbai-House-Price-Prediction)
 ![GitHub license](https://img.shields.io/github/license/Sivaprasad-creator/Mumbai-House-Price-Prediction)
 
+![image alt](https://github.com/Sivaprasad-creator/Mumbai-House-Price-Prediction/blob/34f29cb2779f232673ad3dda3003523924a10c46/House%20price.jpg)
+
 ## 📌 Project Overview
 
 This project predicts **property prices in Mumbai** using various regression algorithms and explores clustering to segment the housing market. It helps understand key drivers of price and provides an interactive **Streamlit web app** for instant predictions.
