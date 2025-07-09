@@ -40,6 +40,12 @@ This project predicts **property prices in Mumbai** using various regression alg
 
 ---
 
+## Dashboard Preview
+
+[!image alt](https://github.com/Sivaprasad-creator/Mumbai-House-Price-Prediction/blob/f72488139bac3a0bbf3c38a2e66491335f9303c2/House%20Price%20Dashboard.png)
+
+---
+
 ## 📈 Power BI Dashboard Insights
 
 - 📊 **Average Metrics**  
