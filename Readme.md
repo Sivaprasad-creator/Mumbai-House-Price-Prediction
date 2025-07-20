@@ -104,6 +104,16 @@ This project includes a **Streamlit web app** where you can:
 
 ---
 
+## Deployment Preview
+
+![image alt](https://github.com/Sivaprasad-creator/Mumbai-House-Price-Prediction/blob/8133f1cf2f61500d8b094bacfbd01064ddef41b2/Deployment1.png)
+
+![image alt](https://github.com/Sivaprasad-creator/Mumbai-House-Price-Prediction/blob/8133f1cf2f61500d8b094bacfbd01064ddef41b2/Deployment2.png)
+
+![image alt](https://github.com/Sivaprasad-creator/Mumbai-House-Price-Prediction/blob/8133f1cf2f61500d8b094bacfbd01064ddef41b2/Deployment3.png)
+
+---
+
 ## 🛠️ How to Run Locally
 
 1. **Clone the Repository**
