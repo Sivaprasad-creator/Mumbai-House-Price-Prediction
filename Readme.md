@@ -1,10 +1,6 @@
 
 # 🏙️ Mumbai House Price Prediction
 
-![GitHub stars](https://img.shields.io/github/stars/Sivaprasad-creator/Mumbai-House-Price-Prediction)
-![GitHub forks](https://img.shields.io/github/forks/Sivaprasad-creator/Mumbai-House-Price-Prediction)
-![GitHub license](https://img.shields.io/github/license/Sivaprasad-creator/Mumbai-House-Price-Prediction)
-
 ![image alt](https://github.com/Sivaprasad-creator/Mumbai-House-Price-Prediction/blob/34f29cb2779f232673ad3dda3003523924a10c46/House%20price.jpg)
 
 ## 📌 Project Overview
